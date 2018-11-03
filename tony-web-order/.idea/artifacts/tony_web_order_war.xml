@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tony-web-order:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tony-web-order-1.0.0.war">
+      <element id="artifact" artifact-name="tony-web-order:war exploded" />
+    </root>
+  </artifact>
+</component>
